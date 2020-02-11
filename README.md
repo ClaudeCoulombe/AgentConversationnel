@@ -11,7 +11,7 @@ Il s'agit d'une traduction rapide en Python d'un vieux programme Java que j'ai Ã
 
 Weizenbaum, J. (1983). Eliza â€” a computer program for the study of natural language communication between man and machine. Communications of the ACM, 26(1), 23-28.
 
-### License
+### Licence
 
 Copyright (C) 2017-2020 Claude COULOMBE
 
