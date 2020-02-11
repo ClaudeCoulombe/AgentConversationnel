@@ -1,0 +1,870 @@
+THEME : 0 UTILISATEUR ETRE ********************************************************************** 
+"je suis "
+"j'suis "
+"je me trouve "
+"je me sens "
+REPONSES
+Etes-vous venu me voir parce que vous êtes*
+Depuis combien de temps êtes-vous*
+Est-ce que vous pensez normal d'être*
+Etes-vous content d'être*
+Est-ce que celà vous ennuie d'être*
+La question reste: être ou ne pas être*
+Pourquoi êtes-vous*
+PHRASE DE RELANCE
+SVP, parlez-moi davantage de vous?
+THEME : 1 UTILISATEUR POUVOIR ********************************************************************** 
+"puis-je "
+"pourrais-je "
+"j'aimerais pouvoir "
+"j'aime pouvoir "
+"je suis capable de "
+"je peux "
+REPONSES
+Peut-être ne voulez-vous pas*
+Pourquoi voulez-vous*
+Donc, vous-aimeriez pouvoir*
+Désirez-vous être capable de*
+Comment pourriez-vous*
+Comment croyez vous pouvoir*
+Vous-aimeriez être capable de*
+Croyez-vous avoir besoin de moi pour être capable de*
+Peut-être qu'un de ces jours vous pourrez*
+Pensez-vous être capable de*
+Pourquoi pouvez-vous*
+PHRASE DE RELANCE
+Et si nous revenions à ce que vous pouvez faire.
+THEME : 2 UTILISATEUR NON POUVOIR ********************************************************************** 
+"je ne peux pas "
+"je ne peux "
+"je ne suis pas capable de "
+"je ne suis pas capable d'"
+"je suis incapable de "
+"je suis incapable d'"
+REPONSES
+Comment savez-vous que vous ne pouvez pas*
+Avez-vous déjà essayé?
+Croyez-vous vraiment ne pas pouvoir*
+Maintenant, vous pouvez peut-être*
+Pourquoi ne pouvez-vous pas*
+Vous semblez bien déterminé à ne pas*
+PHRASE DE RELANCE
+Et si nous revenions à ce que vous ne pouvez pas faire.
+THEME : 3 UTILISATEUR VOULOIR ********************************************************************** 
+"je veux "
+"je voudrais "
+"je dois "
+"je devrais "
+"il faut "
+"il faudrait "
+"je désire "
+"je désirerais "
+"j'ai besoin "
+"j'aurais besoin "
+"je cherche "
+REPONSES
+Pourquoi voulez-vous*
+Supposons que vous ne vouliez plus*
+Ce n'est pas tout de désirer*
+Ce n'est pas tout de vouloir*
+Avez-vous bien réfléchi?
+Moi aussi quelque fois il m'arrive de vouloir*
+Moi aussi quelque fois il m'arrive de désirer*
+Nous avons tous des besoins et des désirs.
+PHRASE DE RELANCE
+Et si vous me reparliez de ce que vous voulez faire
+THEME : 4 UTILISATEUR NON VOULOIR **********************************************************************
+"je ne veux pas "
+"je ne voudrais pas "
+"je ne désire pas "
+"je refuse de "
+"je me refuse à "
+"il ne faut pas "
+"il ne faudrait pas "
+"je n'ai pas besoin "
+REPONSES
+Vous n'aimez vraiment pas*
+Avez-vous déjà essayé?
+Pourquoi ne voulez-vous pas*
+Souhaiteriez-vous pouvoir*
+Croyez-vous vraiment ne pas vouloir*
+Vous semblez bien déterminé à ne pas*
+PHRASE DE RELANCE
+SVP, reparlons de ce que vous ne voulez pas
+THEME : 5 UTILISATEUR AIMER ********************************************************************** 
+"j'aime "
+"j'aimais "
+"j'aimerais "
+"j'adore "
+"je préfère "
+"je préférerais "
+REPONSES
+Pourquoi aimez-vous*
+Etes vous sûr d'aimer*
+Est-ce que celà vous ennuie?
+Etes-vous traumatisé par le fait d'aimer*
+Qu'est-ce que cela vous apporte d'aimer*
+Qu'est-ce qui vous pousse à aimer*
+SVP, développez plus vos sentiments?
+Pensez-vous n'aimer que*
+Croyez-vous qu'il n'y a pas d'amour perdu? 
+PHRASE DE RELANCE
+Et si nous reparlions de ce que vous aimez.
+THEME : 6 UTILISATEUR SENTIR **********************************************************************
+"je sens "
+"je ressens "
+REPONSES
+Est-ce que celà vous ennuie?
+SVP, développez plus vos sentiments?
+Vous me semblez bien proche de vos sentiments!
+Est-ce que vous vous sentez souvent*
+Est-ce que cela vous réjouis vraiment de penser*
+Etes-vous venu me voir parce que vous vous sentez*
+Depuis combien de temps sentez-vous*
+Est-ce que vous trouvez cela normal de sentir*
+PHRASE DE RELANCE
+Revenons à vos sentiments.
+THEME : 7 UTILISATEUR PENSER **********************************************************************
+"je pense "
+"je pensais "
+REPONSES
+SVP, développez plus votre idée?
+Est-ce que cela vous réjouis vraiment de penser*
+Vous me semblez beaucoup trop dans votre tête, un peu trop intellectuel!
+Qu'est-ce qui vous fait dire que vous pensez*
+Comment pouvez-vous dire que vous pensez*
+PHRASE DE RELANCE
+Reparlez-moi de ce qui occupe vos pensées
+THEME : 8 UTILISATEUR CROIRE **********************************************************************
+"je crois "
+"je croyais "
+"je croirais "
+REPONSES
+Est-ce que cela vous réjouis vraiment de croire*
+Qu'est-ce que cela vous fait de croire*
+Comment pouvez-vous être certain de croire*
+PHRASE DE RELANCE
+Reparlez-moi de ce que vous croyez
+THEME : 9 UTILISATEUR SAVOIR **********************************************************************
+"je sais "
+"je savais "
+"je saurais "
+REPONSES
+Qu'est-ce qui vous fait dire que vous savez*
+Est-ce que cela vous réjouis vraiment de savoir*
+Comment pouvez-vous être certain de bien savoir?
+PHRASE DE RELANCE
+Reparlez-moi de ce que vous savez
+THEME : 10 UTILISATEUR DIRE **********************************************************************
+"je dis "
+"je disais "
+"je dirais "
+REPONSES
+Est-ce que cela vous réjouis vraiment de dire*
+Qu'est-ce que cela vous fait de dire*
+Comment pouvez-vous dire*
+Pourquoi dites-vous*
+Qu'est-ce qui vous fait dire*
+PHRASE DE RELANCE
+Redites-moi ce que vous disiez tout à l'heure
+THEME : 11 UTILISATEUR IMAGINER **********************************************************************
+"j'imagine "
+"je m'imagine "
+"j'imaginais "
+"je m'imaginais "
+REPONSES
+Est-ce que cela vous réjouis d'imaginer*
+Qu'est-ce que cela vous fait d'imaginer*
+Comment pouvez-vous imaginer*
+Pourquoi imaginez-vous*
+Qu'est-ce qui vous fait imaginer*
+Vous avez une imagination débordante. Expliquez-vous?
+PHRASE DE RELANCE
+Revenons à ce qui meuble votre imagination
+THEME : 12 UTILISATEUR PRENDRE **********************************************************************
+" prends "
+" prendre "
+" consomme "
+" prenant "
+REPONSES
+Pourquoi prenez-vous*
+A quoi pensez-vous lorsque vous prenez*
+Quelles conséquences voyez-vous au fait de prendre*
+Croyez-vous normal d'en prendre*
+Comment pensez-vous arrêter de prendre* 
+PHRASE DE RELANCE
+Et si nous revenions à vos problèmes?
+THEME : 13 UTILISATEUR FUMER **********************************************************************
+" fume "
+" fumer "
+" fumant "
+REPONSES
+Pourquoi fumez-vous*
+A quoi pensez-vous lorsque vous fumez*
+Quelles conséquences voyez-vous au fait de fumer*
+Trouvez-vous normal de fumer*
+Quelles sont les raisons qui vous motivent à fumer*
+Avez-vous déjà songé à arrêter de fumer*
+Donc vous-êtes un fumeur*
+PHRASE DE RELANCE
+S.V.P. reparlez-moi de vos problèmes de fumeur...
+THEME : 14 UTILISATEUR MANGER **********************************************************************
+" mange "
+" déguste "
+" dévore "
+" nourris "
+"ai faim "
+" fringale"
+REPONSES
+Pourquoi mangez-vous*
+Vous semblez attacher beaucoup d'importance à la nourriture, expliquez-vous?
+PHRASE DE RELANCE
+Reparlez-moi de votre rapport avec la nourriture
+THEME : 15 UTILISATEUR EXCUSER ********************************************************************** 
+"désolé"
+"excuse"
+"navré"
+"pardon"
+"coupable"
+"ma faute"
+REPONSES
+Ne vous excusez pas!
+Les excuses ne sont pas nécessaires.
+A quoi pensez-vous quand vous vous excusez?
+Moi aussi, ça m'arrive parfois de me tromper!
+Ça arrive à tout le monde, ne vous sentez pas coupable.
+PHRASE DE RELANCE
+Rappelez-moi pourquoi vous développez un sentiment de culpabilité?  
+THEME : 16 UTILISATEUR REVER **********************************************************************
+"rêve"
+REPONSES
+Qu'est-ce que ce rêve vous suggère?
+Pourquoi rêvez-vous*
+Rêvez-vous souvent*
+Ne rêvez pas trop, agissez plutôt.
+Rêvez-vous souvent?
+Quelles sont les personnes qui apparaissent dans vos rêves?
+Etes-vous perturbé par vos rêves?
+PHRASE DE RELANCE
+SVP, reparlez-moi de vos rêves.
+THEME : 17 UTILISATEUR BLAGUEUR ********************************************************************** 
+"je ris"
+"je rigole"
+"je souris"
+"rigole"
+"rire"
+"drôle"
+"ridicule"
+"souri"
+"comique"
+"humour"
+REPONSES
+Vous me faites sourire...
+Ah! Ah! Ah!
+D'où tenez-vous un sens de l'humour si développé?
+Heureusement que le ridicule ne tue pas!
+PHRASE DE RELANCE
+Si vous le voulez, vous pouvez revenir sur des choses drôles.
+THEME : 18 UTILISATEUR EXCITÉ **********************************************************************
+"!"
+"étonné"
+"excit"
+"surpris"
+REPONSES
+Pourquoi vous excitez-vous?
+Calmez-vous s'il vous plaît.
+PHRASE DE RELANCE
+Reparlez-moi de ce qui vous excite.
+THEME : 19 UTILISATEUR INSULTER ********************************************************************** 
+"chier"
+"merde"
+"marde"
+"christ"
+"criss"
+"tabar"
+"ciboi"
+"cali"
+"hosti"
+"cul "
+"foutre"
+REPONSES
+Soyez plus poli!
+Il me semble que vous perdez votre sang froid!
+C'est ça défoulez-vous bien!
+Surveillez votre langage, j'enregistre la conversation!
+Une insulte de plus et je vais me fâcher!
+PHRASE DE RELANCE
+Qu'avez-vous à dire pour vous faire pardonner vos écarts de langage de tout à l'heure?
+THEME : 20 UTILISATEUR SALUER ********************************************************************** 
+"bonjour "
+"bonsoir "
+"salut "
+"allo "
+"hello "
+"merci "
+REPONSES
+Merci, comment allez-vous?
+Merci, et si vous me parliez de vos problèmes?
+Merci!
+PHRASE DE RELANCE
+Pouvez-vous développer cela?
+THEME : 21 UTILISATEUR REMERCIER ********************************************************************** 
+"merci "
+"remerci"
+REPONSES
+Ça me fait plaisir!
+Le plaisir est pour moi!
+Pas de quoi!
+Pourquoi me remerciez-vous?
+Tant de gratitude me gêne...
+Je vous en prie.
+PHRASE DE RELANCE
+Pouvez-vous développer cela?
+THEME : 22 UTILISATEUR ALLER **********************************************************************
+" vais "
+REPONSES
+Qu'est-ce qui vous fait penser que vous allez*
+Est-ce que ça vous ferait plaisir d'aller*
+Pourquoi allez-vous*
+Peut-être aimeriez-vous que j'aille*
+Vous arrive-t-il souvent d'imaginer que vous allez*
+Peut-être que dans votre imagination je vais aussi*
+PHRASE DE RELANCE
+SVP, expliquez-vous davantage?
+THEME : 23 UTILISATEUR SAVOIR **********************************************************************
+" sais "
+" saurais "
+" connais "
+" connaitrais "
+REPONSES
+Qu'est-ce qui vous fait penser que vous savez*
+Est-ce que ça vous ferait plaisir de savoir*
+Comment savez-vous*
+Peut-être aimeriez-vous que je sache*
+Vous arrive-t-il souvent d'imaginer que vous savez*
+Peut-être que dans votre imagination je connais aussi*
+PHRASE DE RELANCE
+SVP, expliquez-vous davantage?
+THEME : 24 UTILISATEUR QUESTIONNER ********************************************************************** 
+" comment "
+" pourquoi "
+" quoi "
+"est-ce "
+"?"
+" qu'"
+REPONSES
+Pourquoi m'interrogez-vous?
+Mais voyons, vous devriez le savoir.
+Est-ce que cette question vous intéresse vraiment?
+Quelle réponse vous ferait le plus plaisir?
+Vous, que répondriez-vous?
+C'est une très bonne question à laquelle je ne sais pas répondre.
+C'est une question à laquelle je ne peux pas répondre.
+Vous savez, c'est très bien de poser ce genre de questions.
+Vous posez-vous souvent ce genre de questions?
+Qu'est-ce que vous voulez vraiment savoir?
+Dans le contexte, je ne sais pas quoi vous répondre.
+Avez-vous demandé à quelqu'un d'autre?
+Pour y répondre, vous devriez peut-être consulter une encyclopédie?
+Avez-vous déjà posé de telles questions auparavant?
+Qu'est-ce qui vous vient à l'esprit quand on vous pose cette question?
+Et si je vous posais la même question, que me répondriez-vous?
+PHRASE DE RELANCE
+Si vous voulez, vous pouvez encore me poser des questions?
+THEME : 25 UTILISATEUR AVOIR **********************************************************************
+"j'ai "
+REPONSES
+Pourquoi avez-vous*
+Expliquez-moi ce que signifie pour vous le fait d'avoir*
+PHRASE DE RELANCE
+Reparlez-moi de ce que vous avez?
+THEME : 26 UTILISATEUR NIER ********************************************************************** 
+" non "
+" ne "
+" pas "
+REPONSES
+SVP, développez davantage.
+Dites vous non juste pour être négatif?
+Savez-vous être plus positif de temps en temps?
+Il ne vous sert à rien de nier l'évidence!
+Non! Comment se fait-il?
+Pourquoi pas?
+Etes vous sûr?
+Comment pouvez-vous être si catégorique?
+Votre réponse négative me surprend! Pourquoi?
+C'est évident!
+Je ne vois pas très bien... Expliquez-vous davantage?
+On ne dit jamais non*
+PHRASE DE RELANCE
+Pourriez-vous revenir sur ce que vous ne ve voulez pas?
+THEME : 27 UTILISATEUR AFFIRMER **********************************************************************
+"certain"
+"assuré"
+"sûr "
+"accord"
+"en effet"
+"assurément "
+"évidemment "
+"effectivement "
+"exactement "
+"parfaitement "
+"précisément "
+"sûrement "
+"tout à fait "
+"simplement "
+"c'est ça "
+REPONSES
+SVP, développez davantage...
+Dites vous cela juste pour me plaire?
+Etes vous vraiment sûr?
+Comment faites-vous pour être aussi catégorique?
+Pourquoi?
+Excusez-moi, mais je ne vois pas pourquoi...
+C'est ça...  Expliquez-vous davantage...
+SVP, soyez plus explicite.
+PHRASE DE RELANCE
+Finalement, de quoi êtes-vous vraiment sûr?
+THEME : 28 UTILISATEUR OUI **********************************************************************
+"oui "
+REPONSES
+Dites vous oui juste pour me plaire?
+Etes vous vraiment sûr de votre oui?
+Pourquoi dites-vous oui?
+C'est facile de répondre oui, expliquez-vous davantage?
+SVP, motivez votre oui...
+SVP, développez davantage...
+Comment faites-vous pour être aussi positif?
+Pourquoi?
+Excusez-moi, mais je ne vois pas pourquoi...
+Oui, c'est bien, mais expliquez-vous davantage...
+SVP, soyez plus explicite.
+PHRASE DE RELANCE
+Reparlez-moi de vos affirmations de tout à l'heure?
+THEME : 29 UTILISATEUR INCERTAIN ********************************************************************** 
+"peut-être "
+"doute"
+"près"
+"peut"
+"parfois"
+"vraiment"
+"presque"
+"peu "
+REPONSES
+Vous n'avez pas l'air certain.
+Pouvez-vous être plus précis?
+Etes-vous sûr?
+Le savez vous vraiment?
+Comment pouvez-vous affirmer cela?
+PHRASE DE RELANCE
+Pourriez-vous être plus précis?
+THEME : 30 CAUSE ********************************************************************** 
+" pour "
+" donc "
+" conclu"
+" alors "
+" cause "
+" puisque "
+" dédui"
+" raison "
+" parce "
+" résul"
+" cela "
+REPONSES
+Est-ce la véritable raison?
+N'avez-vous pas d'autres raisons en tête?
+Est-ce que cette raison explique autre chose?
+Quelles pourraient-être les autres raisons?
+Vos conclusions m'étonnent, expliquez-vous?
+PHRASE DE RELANCE
+SVP, revenons sur vos conclusions de tout à l'heure?
+THEME : 31 ELIZA ETRE **********************************************************************
+"vous êtes "
+"tu es "
+"t'es "
+REPONSES
+Qu'est-ce qui vous fait penser que je suis*
+Est-ce que ca vous ferait plaisir de croire que je suis*
+Peut-être aimeriez-vous être*
+Vous arrive-t-il d'imaginer que vous êtes*
+Préfériez-vous que je ne sois pas*
+Peut-être que dans votre imagination je suis*
+PHRASE DE RELANCE
+Revenons à ce que je devrais faire pour vous plaire?
+THEME : 32 ELIZA ALLER **********************************************************************
+" va "
+" va dont "
+" vas "
+REPONSES
+Qu'est-ce qui vous fait penser que je vais*
+Est-ce que ca vous ferait plaisir de croire que je vais*
+Peut-être aimeriez-vous aussi aller*
+Vous arrive-t-il d'imaginer que vous allez*
+Peut-être que dans votre imagination je vais*
+PHRASE DE RELANCE
+Revenons sur ce que vous croyez que je devrais faire 
+THEME : 33 ELIZA NOMMER ********************************************************************** 
+"nom " 
+"nomme"
+"appelle "
+" qui êtes"
+REPONSES
+Je suis incapable de me rappeler des noms.
+Je ne m'intéresse pas aux noms, continuez.
+PHRASE DE RELANCE
+SVP, expliquez-vous davantage?
+THEME : 34 ELIZA POUVOIR **********************************************************************
+"pouvez-vous "
+"peux-tu "
+"vous êtes capable de "
+"tu es capable de "
+REPONSES
+Comment croyez vous que je puisse*
+Peut-etre aimeriez-vous être capable de*
+Vous avez besoin de moi pour être capable de*
+Peut-être qu'un de ces jours je pourrai*
+PHRASE DE RELANCE
+Avez-vous confiance en vous?
+THEME : 35 ELIZA NON POUVOIR ********************************************************************** 
+"vous ne pouvez pas "
+"ne pouvez-vous pas "
+"ne peux-tu pas "
+"tu ne peux pas "
+REPONSES
+Pensez-vous vraiment que je ne puisse pas*
+Peut-être dans un de ces jours je pourrai*
+Avez-vous besoin de moi pour*
+PHRASE DE RELANCE
+Revenons à ce que je peux faire pour vous?
+THEME : 36 REFERENCE À ELIZA ********************************************************************** 
+" éliza "
+" eliza "
+" vous "
+" votre "
+" ton "
+" toi "
+REPONSES
+Nous étions en train de parler de vous pas de moi.
+Et si nous parlions de vous?
+Vous ne parlez pas de moi, n'est-ce pas?
+SVP, ne parlons pas de moi.
+PHRASE DE RELANCE
+SVP, revenons à vous et à vos problèmes...
+THEME : 37 ELIZA ETRE ? **********************************************************************
+"es-tu "
+"êtes-vous "
+REPONSES
+Est-ce que vous pensez que je suis*
+Est-ce que ca vous ferait plaisir de croire que je suis*
+Peut-être aimeriez-vous être*
+Pourquoi voulez-vous savoir si oui ou non je suis*
+Préfériez-vous que je sois*
+Peut-être que dans votre imagination je suis*
+PHRASE DE RELANCE
+SVP, expliquez-moi votre curiosité à mon sujet?
+THEME : 38 TEMPS ********************************************************************** 
+"quand "
+"heure"
+"souvent"
+"temps"
+"maintenant"
+" de suite"
+" demain "
+" lendemain"
+" instant"
+" depuis "
+" pendant "
+" temps "
+" date "
+" année "
+" an"
+" mois "
+" jour"
+" journée"
+" minute"
+" seconde"
+" semaine"
+REPONSES
+Vous me semblez bien préoccupé par le temps. Expliquez-moi?
+Que voulez-vous, je ne vois pas le temps passer! Et-vous?
+Avez-vous peur du temps qui passe?
+PHRASE DE RELANCE
+SVP, reparlez-moi du temps?
+THEME : 39 TOUJOURS ********************************************************************** 
+" toujours "
+" tout le temps "
+REPONSES
+Vraiment, toujours*
+Le pensez-vous vraiment?
+Pouvez-vous me donner un exemple?
+Etes-vous sûr de vous?
+Comment pouvez-vous être aussi catégorique?
+Est-ce que vous vous mettez en doute parfois?
+PHRASE DE RELANCE
+Je ne suis pas sûr de bien vous comprendre?
+THEME : 40 TOUT ********************************************************************** 
+" tout "
+REPONSES
+Vraiment, tout*
+Pouvez-vous me donner un exemple?
+Le pensez-vous vraiment?
+Mais êtes-vous sûr de vous?
+Comment pouvez-vous être aussi catégorique?
+Est-ce que vous vous mettez en doute parfois?
+PHRASE DE RELANCE
+Je ne suis pas sûr de bien vous comprendre?
+THEME : 41 JAMAIS ********************************************************************** 
+" jamais "
+" aucun "
+" aucune "
+REPONSES
+Pourriez-vous me donner un contre-exemple?
+Vraiment, jamais*
+Le pensez-vous vraiment?
+Mais, êtes-vous sûr de vous?
+Comment pouvez-vous être aussi catégorique?
+Est-ce que vous vous mettez en doute parfois?
+PHRASE DE RELANCE
+Revenons à  vos certitudes
+THEME : 42 SIMILARITE ********************************************************************** 
+" comme "
+" semble"
+" simil"
+" même "
+" pareil"
+REPONSES
+De quelle façon?
+Quelle ressemblance y voyez-vous?
+Qu'est-ce que cette ressemblance vous suggère?
+Quel autre rapport y voyez vous?
+Y voyez-vous vraiment un rapport?
+Comment?
+PHRASE DE RELANCE
+Si vous le voulez, revenons à vos découvertes et déductions
+THEME : 43 AMITIE ********************************************************************** 
+" ami"
+" copain"
+" amitié"
+" compagn"
+REPONSES
+Pourquoi parlez-vous de vos amis?
+L'amitié semble prendre une place importante dans votre vie. Pourquoi?
+Etes-vous sûr que vos amis vous aiment?
+Est-ce que vos amis vous apportent quelque chose?
+Comment sont vos amis?
+Etes-vous sûr d'avoir de vrais amis?
+Vous imposez-vous à vos amis?
+Peut-être que l'amitié vous effraie?
+PHRASE DE RELANCE
+Si vous le voulez, revenons à vos amis
+THEME : 44 ORDINATEUR ********************************************************************** 
+" ordinateur"
+" machine"
+" informatique"
+" logiciel"
+" pc "
+" mac "
+REPONSES
+Est-ce que les ordinateurs vous ennuient?
+Parliez-vous de moi en particulier?
+Pourquoi avez-vous peur des machines?
+Pourquoi parlez-vous d'ordinateurs?
+Vous me semblez obsédé par les ordinateurs. Expliquez-vous? 
+En quoi les machines interviennent dans vos problèmes?
+Pensez vous que les ordinateurs soient nuisibles?
+Qu'est-ce qui vous effraie dans les machines?
+PHRASE DE RELANCE
+Si vous le voulez, revenons à l'informatique
+THEME : 45 RIEN ********************************************************************** 
+" rien "
+" néant "
+" vide"
+" désert"
+REPONSES
+Pourquoi rien*
+Croyez-vous que rien égale tout?
+Etes-vous sûr?
+Seriez-vous nihiliste?
+Ne soyez pas si nihiliste.
+PHRASE DE RELANCE
+Vous n'avez rien à ajouter?
+THEME : 46 MORT ********************************************************************** 
+" mort "
+" décès"
+" meutr"
+" cadavre"
+" décédé"
+" mortalité"
+" mourir "
+REPONSES
+La mort vous effraie-t-elle?
+Pourquoi êtes-vous obsédé par la mort.
+Rien n'est plus mort qu'un mort. Qu'en pensez-vous?
+PHRASE DE RELANCE
+Si vous le voulez, reparlez-moi de la mort
+THEME : 47 FAMILLE ********************************************************************** 
+" famil"
+" parent"
+" enfance"
+" naissance"
+" adolescence"
+" père"
+" mère"
+" frère"
+" soeur"
+" oncle"
+" tante"
+" cousin"
+" maman"
+" papa"
+" grand-père"
+" grand-mère"
+REPONSES
+Parlez-moi davantage de votre famille?
+Comment réagit votre entourage?
+Vous semblez attacher beaucoup d'importance à votre famille, pourquoi?
+Aimez-vous vos parents?
+Avez-vous vécu une enfance heureuse?
+Pourquoi me parlez-vous de votre famille?
+PHRASE DE RELANCE
+SVP, reparlez-moi de votre famille.
+THEME : 48 ELIZA COMPTER ********************************************************************** 
+" combien " 
+"1"
+"2"
+"3"
+"4"
+"5"
+"6"
+"7"
+"8"
+"9"
+"0"
+"deux "
+"trois "
+"quatre "
+"cinq "
+"six "
+"sept "
+"huit "
+"neuf "
+"zéro "
+REPONSES
+Je ne m'intéresse pas aux chiffres, continuez.
+Désolé mais je suis nul en math...
+PHRASE DE RELANCE
+SVP, revenez aux faits!
+THEME : 49 ELIZA STUPIDE ********************************************************************** 
+"idiot"
+"imbécile"
+"stupide"
+"crétin"
+"niais"
+"nono"
+" fou "
+" con "
+" épais "
+REPONSES
+Les idiots ne sont pas toujours aussi idiots que vous le croyez
+Parfois un idiot vous surprendra 
+PHRASE DE RELANCE
+SVP, parlez-moi poliment! 
+THEME : 50 AMOUR ********************************************************************** 
+"amour"
+" aimé "
+" aime"
+REPONSES
+Pourquoi l'amour vous préoccupe-t-il?
+Etes-vous sûr de cet amour?
+Parlez-moi de l'amour que vous éprouvez?
+PHRASE DE RELANCE
+Reparlez-moi de vos amours
+THEME : 51 VIE ********************************************************************** 
+" vie "
+"existe"
+"vivre"
+"destin"
+" dieu "
+"mystér"
+"avenir"
+"futur"
+REPONSES
+Que voulez-vous, ce que nous réserve la vie reste un mystère! Qu'en pensez-vous?
+Vous me semblez bien préoccupé par votre destin... Pourquoi?
+Comment voyez-vous votre vie?
+PHRASE DE RELANCE
+Si vous le voulez, revenons à votre vie
+THEME : 52 BIEN ********************************************************************** 
+" bien "
+REPONSES
+Pourquoi dites-vous bien*
+Comment pouvez-vous affirmer que c'est bien*
+Etes-vous sûr?
+PHRASE DE RELANCE
+Revenons à ce qui vous fait du bien.
+THEME : 53 AUTRE ACTEUR MASC ********************************************************************** 
+"il "
+REPONSES
+Pourquoi dites vous qu'il*
+Je préfère que vous m'en racontiez un peu plus sur vos problèmes.
+SVP, ne changez pas de conversation.
+PHRASE DE RELANCE
+Et si nous reparlions de cet homme dont vous me parliez tout à l'heure.
+THEME : 54 AUTRE ACTEUR FEM ********************************************************************** 
+" elle "
+"'elle "
+REPONSES
+Pourquoi dites vous qu'elle*
+J'aimerais que vous m'en racontiez un peu plus sur elle.
+SVP, ne changez pas de conversation.
+PHRASE DE RELANCE
+SVP, reparlez-moi de la femme dont vous me parliez tout à l'heure.
+THEME : 55 AUTRE ACTEUR PLUR ********************************************************************** 
+"ils "
+REPONSES
+Pourquoi dites vous qu'ils*
+J'aimerais que vous m'en racontiez un peu plus sur eux.
+SVP, ne changez pas de conversation.
+PHRASE DE RELANCE
+SVP, reparlez-moi des gens dont vous me parliez tout à l'heure.
+THEME : 56 ANGLICISMES ********************************************************************** 
+" yes "
+" fun "
+" no "
+" not "
+" i "
+" ok "
+" fuck"
+" am "
+"w "
+" w"
+"k "
+"°"
+"english"
+" do "
+" you "
+"y "
+REPONSES
+Je ne parle pas anglais.
+Et la loi 101...
+S.V.P. pas d'anglicismes.
+PHRASE DE RELANCE
+J'aimerais bien que vous m'expliquiez votre intérêt pour les langues étrangères.
+THEME : 57 FOURRE TOUT ********************************************************************** 
+"@$%@#(&*(&&$FWd"
+REPONSES
+Pouvez-vous être plus explicite?
+Qu'est-ce que cela vous suggère?
+Je vois...
+Je ne suis pas sûr de bien vous comprendre?
+Finalement, qu'est-ce que vous avez retenu jusqu'ici?
+Continuez, expliquez-vous?
+Pouvez-vous développer cela?
+C'est très intéressant!
+Vos propos me semblent quelque peu embrouillés!
+SVP, parlez moi davantage de vos impressions?
+SVP, parlez moi davantage de vos problèmes?
+Comment pouvez-vous dire cela?
+SVP, dites m'en davantage?
+PHRASE DE RELANCE
+Rien à dire...
+THEME : FIN
