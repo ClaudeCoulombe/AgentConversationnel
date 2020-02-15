@@ -13,7 +13,7 @@ Weizenbaum, J. (1983). Eliza — a computer program for the study of natural lan
 
 ### Licence
 
-Copyright (C) 2017-2020 Claude COULOMBE
+Copyright (C) 2001-2020 Claude COULOMBE
 
 Sous licence Apache, Version 2.0 (la "Licence");
 vous ne pouvez pas utiliser ce fichier, sauf conformément avec la licence.
